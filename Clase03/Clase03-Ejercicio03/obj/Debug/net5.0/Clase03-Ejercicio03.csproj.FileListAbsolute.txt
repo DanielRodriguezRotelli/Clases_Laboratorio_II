@@ -1,5 +1,0 @@
-C:\Users\Danchi\source\repos\Ejercicios_Lab_II\Clase03\Clase03-Ejercicio03\obj\Debug\net5.0\Clase03-Ejercicio03.csproj.AssemblyReference.cache
-C:\Users\Danchi\source\repos\Ejercicios_Lab_II\Clase03\Clase03-Ejercicio03\obj\Debug\net5.0\Clase03-Ejercicio03.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Danchi\source\repos\Ejercicios_Lab_II\Clase03\Clase03-Ejercicio03\obj\Debug\net5.0\Clase03-Ejercicio03.AssemblyInfoInputs.cache
-C:\Users\Danchi\source\repos\Ejercicios_Lab_II\Clase03\Clase03-Ejercicio03\obj\Debug\net5.0\Clase03-Ejercicio03.AssemblyInfo.cs
-C:\Users\Danchi\source\repos\Ejercicios_Lab_II\Clase03\Clase03-Ejercicio03\obj\Debug\net5.0\Clase03-Ejercicio03.csproj.CoreCompileInputs.cache

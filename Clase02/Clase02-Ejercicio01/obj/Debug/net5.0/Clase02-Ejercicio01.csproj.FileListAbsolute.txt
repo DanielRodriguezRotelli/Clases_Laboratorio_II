@@ -1,0 +1,16 @@
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio01\bin\Debug\net5.0\Clase02-Ejercicio01.exe
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio01\bin\Debug\net5.0\Clase02-Ejercicio01.deps.json
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio01\bin\Debug\net5.0\Clase02-Ejercicio01.runtimeconfig.json
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio01\bin\Debug\net5.0\Clase02-Ejercicio01.runtimeconfig.dev.json
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio01\bin\Debug\net5.0\Clase02-Ejercicio01.dll
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio01\bin\Debug\net5.0\ref\Clase02-Ejercicio01.dll
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio01\bin\Debug\net5.0\Clase02-Ejercicio01.pdb
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio01\obj\Debug\net5.0\Clase02-Ejercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio01\obj\Debug\net5.0\Clase02-Ejercicio01.AssemblyInfoInputs.cache
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio01\obj\Debug\net5.0\Clase02-Ejercicio01.AssemblyInfo.cs
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio01\obj\Debug\net5.0\Clase02-Ejercicio01.csproj.CoreCompileInputs.cache
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio01\obj\Debug\net5.0\Clase02-Ejercicio01.dll
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio01\obj\Debug\net5.0\ref\Clase02-Ejercicio01.dll
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio01\obj\Debug\net5.0\Clase02-Ejercicio01.pdb
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio01\obj\Debug\net5.0\Clase02-Ejercicio01.genruntimeconfig.cache
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio01\obj\Debug\net5.0\Clase02-Ejercicio01.csproj.AssemblyReference.cache

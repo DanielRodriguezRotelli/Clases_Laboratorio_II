@@ -1,0 +1,16 @@
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio08\obj\Debug\net5.0\Clase02-Ejercicio08.csproj.AssemblyReference.cache
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio08\obj\Debug\net5.0\Clase02-Ejercicio08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio08\obj\Debug\net5.0\Clase02-Ejercicio08.AssemblyInfoInputs.cache
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio08\obj\Debug\net5.0\Clase02-Ejercicio08.AssemblyInfo.cs
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio08\obj\Debug\net5.0\Clase02-Ejercicio08.csproj.CoreCompileInputs.cache
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio08\bin\Debug\net5.0\Clase02-Ejercicio08.exe
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio08\bin\Debug\net5.0\Clase02-Ejercicio08.deps.json
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio08\bin\Debug\net5.0\Clase02-Ejercicio08.runtimeconfig.json
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio08\bin\Debug\net5.0\Clase02-Ejercicio08.runtimeconfig.dev.json
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio08\bin\Debug\net5.0\Clase02-Ejercicio08.dll
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio08\bin\Debug\net5.0\ref\Clase02-Ejercicio08.dll
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio08\bin\Debug\net5.0\Clase02-Ejercicio08.pdb
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio08\obj\Debug\net5.0\Clase02-Ejercicio08.dll
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio08\obj\Debug\net5.0\ref\Clase02-Ejercicio08.dll
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio08\obj\Debug\net5.0\Clase02-Ejercicio08.pdb
+C:\Users\Danchi\source\repos\Clase02\Clase02-Ejercicio08\obj\Debug\net5.0\Clase02-Ejercicio08.genruntimeconfig.cache
